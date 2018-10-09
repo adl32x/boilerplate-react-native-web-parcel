@@ -2,6 +2,8 @@
 
 Example of how to use react-native-web with Parcel.js
 
+<img src="/docs/screenshot.png" alt="Screenshot"/>
+
 ## Installing
 
 `npm install`
