@@ -2,6 +2,10 @@
 
 Example of how to use react-native-web with Parcel.js
 
+## Installing
+
+`npm install`
+
 ## Running
 
 `npm run web`
